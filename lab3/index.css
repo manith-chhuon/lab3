@@ -19,7 +19,7 @@ h1 {
   }
   
   .upperCase {
-    text-transform: uppercase; 
+    text-transform: lowercase; 
   }
   
   .smallText, 
